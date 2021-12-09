@@ -1,4 +1,4 @@
-# PortfolioProjects
+# Portfolio Projects
 
 ## Introdution: This is series of Projects to display competencies in SQL and Tableau
 
