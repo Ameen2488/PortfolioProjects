@@ -22,7 +22,7 @@
 
 #### For Live Dashboard:  [Click Here](https://public.tableau.com/views/Book1_16340413683010/CovidDeathData?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-![image](![Dashboard India](https://user-images.githubusercontent.com/90097839/145435059-4aae3092-c9c0-4210-b663-c7848b06b2c0.png)
+(![Dashboard India](https://user-images.githubusercontent.com/90097839/145435059-4aae3092-c9c0-4210-b663-c7848b06b2c0.png)
 
 #### For Live Dashboard:  [Click Here](https://public.tableau.com/app/profile/ameen.siddiqui/viz/Covid_India_16345797159030/DashboardIndia)
 
@@ -33,6 +33,6 @@
 
 ### Visualization:
 
-![image](![Car Dashboard](https://user-images.githubusercontent.com/90097839/145439380-777edf6f-bf29-4330-8476-13205c82ee4f.png)
+(![Car Dashboard](https://user-images.githubusercontent.com/90097839/145439380-777edf6f-bf29-4330-8476-13205c82ee4f.png)
 
 #### For Live Dashboard:  [Click Here](https://public.tableau.com/app/profile/ameen.siddiqui/viz/Car_Salaes_Data/CarDashboard)
