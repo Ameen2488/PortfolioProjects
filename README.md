@@ -36,3 +36,14 @@
 ![Car Dashboard](https://user-images.githubusercontent.com/90097839/145439380-777edf6f-bf29-4330-8476-13205c82ee4f.png)
 
 #### For Live Dashboard:  [Click Here](https://public.tableau.com/app/profile/ameen.siddiqui/viz/Car_Salaes_Data/CarDashboard)
+
+
+### 3. This Project is targetted at Data Cleaning in Microsoft SQL Server:
+
+### Highlights of Data Cleaning
+
+* Populating missing data
+* Separating effective data from columns
+* Having a unified format through all columns
+* Removing Duplicated
+* Doing away with unused columns
