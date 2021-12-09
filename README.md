@@ -21,3 +21,8 @@
 ![image](https://user-images.githubusercontent.com/90097839/140092493-5343c183-922b-47db-aa72-a6a45a48b481.png)
 
 #### For Live Dashboard:  [Click Here](https://public.tableau.com/views/Book1_16340413683010/CovidDeathData?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+![image](![Dashboard India](https://user-images.githubusercontent.com/90097839/145435059-4aae3092-c9c0-4210-b663-c7848b06b2c0.png)
+
+#### For Live Dashboard:  [Click Here](https://public.tableau.com/app/profile/ameen.siddiqui/viz/Covid_India_16345797159030/DashboardIndia)
+
